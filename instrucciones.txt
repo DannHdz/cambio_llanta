@@ -1,1 +1,27 @@
 crear nuevo archivo de instrucciones
+1- Sacar herramienta
+
+2- Sacar llanta de refaccion
+
+3- Colocar el gato
+
+4- Aflojar birlos
+
+5- Subir el auto con el gato
+
+6- Quitar birlos
+
+7- Quitar llanta
+
+8- Colocar llanta de refaccion
+
+9- Colocar birlos
+
+10- Bajar el auto
+
+11- Apretar los birlos
+
+12- Guardar herramientas y llanta dañada
+
+13- Encender el auto y andar
+
